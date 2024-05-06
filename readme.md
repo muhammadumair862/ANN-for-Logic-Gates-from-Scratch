@@ -27,7 +27,7 @@ git clone https://github.com/muhammadumair862/ANN-for-Logic-Gates-from-Scratch.g
 2. Navigate to the project directory:
 
 ```bash
-cd ann-logic-gates
+cd ANN-FOR-LOGIC-GATES-FROM-SCRATCH
 ```
 
 3. Open and run the `ANN_for_Gates.ipynb` to train the ANN and simulate logic gates.
